@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Dinesh</h1>
-<h3 align="center">A Data Science enthusiast from India</h3>
+<h3 align="center">A Data Science enthusiast from India</h3></br>
 
 - 🔭 I’m currently working on **Data science projects**
 

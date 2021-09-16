@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rohan Dinesh 👋</h1>
+<h1>Hi, I'm Rohan Dinesh 👋</h1
 <h3>A Data Science enthusiast from India</h3></br>
 
 - 🔭 I’m currently working on **Data science and AIML projects**

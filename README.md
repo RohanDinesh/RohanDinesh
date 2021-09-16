@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **-**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/RohanDinesh?tab=repositories)
 
 - 💬 Ask me about **anything**
 

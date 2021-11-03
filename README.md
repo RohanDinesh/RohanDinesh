@@ -1,11 +1,15 @@
 <h1>Hi, I'm Rohan Dinesh 👋</h1>
 <h3>A Data Science enthusiast from India</h3></br>
 
+- 🇮🇳 I am from India
+
+- 👦🏻 My Pronouns: He/Him
+
 - 🔭 I’m currently working on **Data science and AIML projects**
 
 - 🌱 I’m currently learning **Data science**
 
-- 👯 I’m looking to collaborate on **-**
+- 👯 I’m looking to collaborate on **_____**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/RohanDinesh?tab=repositories)
 

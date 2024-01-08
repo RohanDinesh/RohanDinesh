@@ -5,15 +5,15 @@
 
 - 👦🏻 My Pronouns: He/Him
 
-- 🔭 I’m currently working on **Data science and AIML projects**
+- 🔭 I’m currently working on **Data science and Django projects**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **_____**
+- 👯 I’m looking to collaborate on **Python and Django**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://github.com/RohanDinesh?tab=repositories)
+- 👨‍💻 All of my projects are available: [here](https://github.com/RohanDinesh?tab=repositories)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Tech, coding or sports**
 
 - 📫 How to reach me: **rohandinesh.blr@gmail.com**
 

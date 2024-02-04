@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data science and Django projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and node.js**
 
 - 👯 I’m looking to collaborate on **Python and Django**
 

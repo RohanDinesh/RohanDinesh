@@ -1,7 +1,8 @@
 <h1>Hi, I'm Rohan Dinesh 👋</h1>
-<h3>A Computer Science programming enthusiast from Bangalore, India</h3></br>
+<h3>“Coding Today, Shaping Tomorrow” </h3></br>
 
-- 🇮🇳 I am from India
+
+- 🇮🇳 I am from Bangalore, India
 
 - 👦🏻 My Pronouns: He/Him
 

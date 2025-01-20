@@ -5,11 +5,11 @@
 
 - 👦🏻 My Pronouns: He/Him
 
-- 🔭 I’m currently working on **Data science and Django projects**
+- 🔭 I’m currently working on **Angular and Django projects**
 
 - 🌱 I’m currently learning **Django and node.js**
 
-- 👯 I’m looking to collaborate on **Python and Django**
+- 👯 I’m looking to collaborate on **Python or Javascript**
 
 - 👨‍💻 All of my projects are available: [here](https://github.com/RohanDinesh?tab=repositories)
 

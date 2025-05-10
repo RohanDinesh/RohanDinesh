@@ -38,6 +38,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" title="SQL">
+    <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="sql" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>Web Technologies</h4>
@@ -46,7 +49,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://restfulapi.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" alt="restapi" width="40" height="40"/></a>
+  <a href="https://restfulapi.net/" target="_blank" title="REST API">
+    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json&logoColor=white" alt="restapi" width="80" height="28"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -55,9 +60,11 @@
 <h4>Other Technologies</h4>
 <p align="left">
   <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle-vm" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/linux/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="oracle-linux" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="olvm" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/linux/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle-linux" width="40" height="40"/></a>
+  <a href="https://www.redhat.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/></a>
   <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ai-ml" width="40" height="40"/></a>
 </p>

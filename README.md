@@ -61,12 +61,12 @@
 <p align="left">
   <!-- Virtualization -->
   <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle VM">
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="oracle-vm" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/6125/6125000.png" alt="oracle-vm" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
   </a>
   
   <!-- OLVM -->
-  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="OLVM">
-    <img src="https://cdn-icons-png.flaticon.com/512/6125/6125000.png" alt="olvm" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle Linux Virtual Manager">
+    <img src="https://cdn-icons-png.flaticon.com/512/3602/3602145.png" alt="olvm" width="40" height="40"/>
   </a>
   
   <!-- Oracle Linux -->
@@ -80,8 +80,8 @@
   </a>
   
   <!-- OCI -->
-  <a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="oci" width="40" height="40" style="filter: hue-rotate(180deg);"/>
+  <a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud Infrastructure">
+    <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" alt="oci" width="40" height="40"/>
   </a>
   
   <!-- Version Control -->

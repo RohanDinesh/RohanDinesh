@@ -59,12 +59,43 @@
 
 <h4>Other Technologies</h4>
 <p align="left">
-  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle-vm" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="olvm" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/linux/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle-linux" width="40" height="40"/></a>
-  <a href="https://www.redhat.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oci" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="ai-ml" width="40" height="40"/></a>
+  <!-- Virtualization -->
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle VM">
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="oracle-vm" width="40" height="40"/>
+  </a>
+  
+  <!-- OLVM -->
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="OLVM">
+    <img src="https://cdn-icons-png.flaticon.com/512/6125/6125000.png" alt="olvm" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
+  </a>
+  
+  <!-- Oracle Linux -->
+  <a href="https://www.oracle.com/linux/" target="_blank" title="Oracle Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle-linux" width="40" height="40"/>
+  </a>
+  
+  <!-- Red Hat -->
+  <a href="https://www.redhat.com" target="_blank" title="Red Hat Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/>
+  </a>
+  
+  <!-- OCI -->
+  <a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="oci" width="40" height="40" style="filter: hue-rotate(180deg);"/>
+  </a>
+  
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <!-- Containerization -->
+  <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  
+  <!-- AI/ML -->
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI/ML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="ai-ml" width="40" height="40"/>
+  </a>
 </p>

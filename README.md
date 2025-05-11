@@ -56,12 +56,11 @@
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
-
 <h4>Other Technologies</h4>
 <p align="left">
   <!-- Virtualization -->
   <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle VM">
-    <img src="https://cdn-icons-png.flaticon.com/512/6125/6125000.png" alt="oracle-vm" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
+    <img src="https://www.oracle.com/a/ocom/img/obic-o-square.jpg" alt="oracle-vm" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
   </a>
   
   <!-- OLVM -->
@@ -71,7 +70,7 @@
   
   <!-- Oracle Linux -->
   <a href="https://www.oracle.com/linux/" target="_blank" title="Oracle Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle-linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="oracle-linux" width="40" height="40"/>
   </a>
   
   <!-- Red Hat -->

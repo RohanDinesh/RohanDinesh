@@ -98,3 +98,57 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="ai-ml" width="40" height="40"/>
   </a>
 </p>
+
+<h4>Other Technologies</h4>
+<p align="left">
+  <!-- Virtualization -->
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle VM">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="background:white;padding:2px;border-radius:5px;"/>
+  </a>
+  
+  <!-- OLVM -->
+  <a href="https://www.oracle.com/virtualization/technologies/vm.html" target="_blank" title="Oracle Linux Virtual Manager">
+    <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" alt="olvm" width="40" height="40"/>
+  </a>
+  
+  <!-- Oracle Linux -->
+  <a href="https://www.oracle.com/linux/" target="_blank" title="Oracle Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="oracle-linux" width="40" height="40"/>
+  </a>
+  
+  <!-- Red Hat -->
+  <a href="https://www.redhat.com" target="_blank" title="Red Hat Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="40" height="40"/>
+  </a>
+  
+ 
+    <!-- OCI -->
+    <a href="https://www.oracle.com/cloud/" target="_blank" title="Oracle Cloud Infrastructure">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+           alt="oci" 
+           width="40" 
+           height="40"
+           style="filter: hue-rotate(200deg) brightness(0.9); background: #f5f5f5; padding: 4px; border-radius: 6px;"/>
+    </a>
+  
+  <!-- Version Control -->
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  
+  <!-- Containerization -->
+  <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  
+  <!-- AI/ML -->
+    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="Machine Learning">
+      <img src="https://cdn-icons-png.flaticon.com/512/2821/2821633.png" 
+           alt="machine-learning" 
+           width="40" 
+           height="40"
+           style="background:#f8f8f8; padding:4px; border-radius:5px;"/>
+    </a>
+</p>
+
+

@@ -148,12 +148,8 @@
   </a>
   
   <!-- AI/ML -->
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" title="Machine Learning">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Machine_learning_icon.svg" 
-         alt="machine-learning" 
-         width="40" 
-         height="40" 
-         style="background:#f8f8f8; padding:4px; border-radius:5px;"/>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" title="AI/ML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="ai-ml" width="40" height="40"/>
   </a>
 </p>
 
